@@ -1,5 +1,3 @@
-## Hola por aqui!!👋
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ciberbull" alt="ciberbull" /> </p>
 <h1 align="center"> 🤖CiberBull🐂</h1>
 <!--
