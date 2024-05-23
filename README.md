@@ -1,7 +1,7 @@
 ## Hola por aqui!!👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ciberbull" alt="ciberbull" /> </p>
-<h1 align="center">Hola, soy  🤖CiberBull🐂</h1>
+<h1 align="center"> 🤖CiberBull🐂</h1>
 <!--
 **ciberbull/ciberbull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
