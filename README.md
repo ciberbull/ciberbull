@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 Aprendiz permanente. Win/Linux, C, Arduino, Python. Forense e investigación de estafas y de todo un poco.
 Si tenia un cable ya esta desmontado.
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciberbull&layout=compact" alt="ciberbull" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ciberbull&show_icons=true" alt="ciberbull" /></p>
